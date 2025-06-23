@@ -13,8 +13,8 @@ I am a dedicated and self-motivated developer with a strong focus on **Artificia
 My interests lie in building intelligent, scalable solutions and gaining practical experience through innovative projects and participation in technical events.
 
 **🔭 Currently working on:**
-🌐 Developing dynamic, full stack web applications with modern frameworks
-🤖 Exploring machine learning algorithms and AI model integration using Python
+<p>🌐 Developing dynamic, full stack web applications with modern frameworks</p>
+<p>🤖 Exploring machine learning algorithms and AI model integration using Python</p>
 
 ---
 
